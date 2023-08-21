@@ -1,0 +1,20 @@
+.Odd {
+    background-color: hsl(5, 50%, 60%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Line2 {
+    font-size: 36px;
+    color: hsl(245, 100%, 50%);
+}
+
+#Line4 {
+    background-color: hsl(115, 50%, 60%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Two {
+    font-size: 24px;
+}
+
